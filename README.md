@@ -1,4 +1,4 @@
-# vp-ui-vue
+# l-ui-vue
 
 ## Project setup
 ```
