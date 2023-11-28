@@ -1,8 +1,12 @@
 {
   "name": "l-ui-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "main": "lib/l-ui-vue.common.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bellasource/l-ui-vue.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
